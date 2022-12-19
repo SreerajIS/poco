@@ -1,0 +1,108 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(26, 25, 25);
+  align-items: center;
+}
+.footer p {
+  color: white;
+}
+.follow-poco {
+  font-size: 28px;
+  display: flex;
+  height: 160px;
+  align-items: center;
+}
+.chat-support {
+  height: 100px;
+}
+.chat-support button {
+  height: 50px;
+  width: 400px;
+  background-color: rgb(209, 164, 16);
+}
+.chat-support p {
+  font-size: 28px;
+  font-weight: 700;
+  color: black;
+}
+.number {
+  height: 40px;
+}
+.number p {
+  font-size: 24px;
+  color: rgb(175, 181, 181);
+}
+.service-in {
+  height: 30px;
+}
+.service-in p {
+  color: rgb(175, 181, 181);
+  cursor: pointer;
+}
+.service-in p:hover{
+  color: rgb(205, 184, 23);
+
+}
+.poco-service {
+  height: 30px;
+}
+.poco-service p {
+  color: rgb(175, 181, 181);
+  cursor: pointer;
+}
+.poco-service p:hover {
+  color: rgb(205, 184, 23);
+}
+.spare-part {
+  height: 30px;
+}
+.spare-part p {
+  color: rgb(175, 181, 181);
+  cursor: pointer;
+}
+.spare-part p:hover {
+  color: rgb(205, 184, 23);
+}
+.service-hours {
+  height: 30px;
+}
+.service-hours p{
+  color: rgb(175, 181, 181);
+
+}
+.about-us {
+  height: 30px;
+}
+.about-us p {
+  color: rgb(175, 181, 181);
+  cursor: pointer;
+}
+.about-us p:hover {
+  color: rgb(205, 184, 23);
+}
+.warranty {
+  height: 30px;
+  margin-bottom: 60px;
+}
+.warranty p {
+  color: rgb(175, 181, 181);
+  cursor: pointer;
+}
+.warranty p:hover {
+  color: rgb(205, 184, 23);
+}
+.hr {
+  width: 75%;
+  border-top: 0px solid rgb(175, 181, 181);
+  padding: 0;
+  margin: 0;
+  margin-bottom: 10px;
+}
+.copyright{
+  height: 30px;
+}
+.copyright p {
+  font-size: 13px;
+  color: rgb(66, 68, 68);
+}

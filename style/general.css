@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: yantravaman, Arial;
+}
+button{
+  cursor: pointer;
+}
+p{
+  margin: 0;
+  padding: 0;
+  border: none;
+}

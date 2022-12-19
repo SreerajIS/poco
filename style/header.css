@@ -1,0 +1,63 @@
+.header {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.header-1 {
+  background-color: rgb(23, 23, 23);
+  height: 30px;
+  position: absolute;
+  margin-bottom: -10px;
+}
+.header-2{
+  text-align: center;
+  position: relative;
+  margin-top: -20px;
+}
+.poco-icon {
+  height: 35px;
+  position: relative;
+  margin-bottom: -60px;
+}
+.bar {
+  width: 1520px;
+  height: 112px;
+  object-fit: cover;
+}
+.header-3 {
+  display: flex;
+  flex-direction: row;
+  height: 65px;
+  background-color: black;
+  margin-top: -40px;
+  align-items: center;
+}
+.header-3 button {
+  height: 50px;
+  width: auto;
+  border: none;
+  background-color: black;
+  color: white;
+}
+.header-3 button:hover {
+  background-color: rgb(40, 43, 40);
+}
+.header-3 p {
+  font-size: 14px;
+  font-weight: 200;
+}
+.header-button-1 {
+  margin-left: 40px;
+}
+.header-button-2 {
+  margin-left: 20px;
+}
+.header-button-3 {
+  margin-left: 20px;
+}
+.header-button-4 {
+  margin-left: 20px;
+}
+.header-button-5 {
+  margin-left: 860px;
+}
